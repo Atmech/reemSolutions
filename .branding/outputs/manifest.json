@@ -1,0 +1,911 @@
+{
+  "project": {
+    "name": "reem.solutions",
+    "mode": "name-to-brand",
+    "date": "2026-10-09"
+  },
+  "foundation": {
+    "reference": "brand-guide.md"
+  },
+  "naming": {
+    "status": "screening_note",
+    "recommendation": "retain with descriptor; unscreened"
+  },
+  "nouns": {
+    "generated": [
+      "joint",
+      "beam",
+      "bracket",
+      "frame",
+      "gate",
+      "rail",
+      "step",
+      "bridge",
+      "ledger",
+      "ruler",
+      "tile",
+      "hinge",
+      "keystone",
+      "thread",
+      "anchor",
+      "compass",
+      "harbour",
+      "relay",
+      "workbench",
+      "path"
+    ],
+    "approved": [
+      "joint",
+      "beam",
+      "bracket",
+      "frame",
+      "gate",
+      "rail",
+      "step",
+      "bridge",
+      "ledger",
+      "ruler",
+      "tile",
+      "hinge",
+      "keystone",
+      "thread",
+      "anchor"
+    ],
+    "approval_status": "designer working selection"
+  },
+  "concepts": [
+    {
+      "id": "C01",
+      "nouns": [
+        "joint",
+        "beam"
+      ],
+      "silhouette": "offset elbow / plain",
+      "geometry": "two thick right-angle parts; unmodified silhouette",
+      "negative_space": "open upper-right gap",
+      "story": "Parts become an operable whole",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "low",
+      "score": 4.2,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C02",
+      "nouns": [
+        "joint",
+        "beam"
+      ],
+      "silhouette": "offset elbow / offset",
+      "geometry": "two thick right-angle parts; upper element shifted one unit",
+      "negative_space": "open upper-right gap",
+      "story": "Parts become an operable whole",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 4.14,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C03",
+      "nouns": [
+        "joint",
+        "beam"
+      ],
+      "silhouette": "offset elbow / cut",
+      "geometry": "two thick right-angle parts; one broad square cut from the outer edge",
+      "negative_space": "open upper-right gap",
+      "story": "Parts become an operable whole",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 4.08,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C04",
+      "nouns": [
+        "joint",
+        "beam"
+      ],
+      "silhouette": "offset elbow / paired",
+      "geometry": "two thick right-angle parts; two elements mirrored around a wide channel",
+      "negative_space": "open upper-right gap",
+      "story": "Parts become an operable whole",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 4.02,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C05",
+      "nouns": [
+        "joint",
+        "beam"
+      ],
+      "silhouette": "offset elbow / terminal",
+      "geometry": "two thick right-angle parts; one terminal extended to suggest a next step",
+      "negative_space": "open upper-right gap",
+      "story": "Parts become an operable whole",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.96,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C06",
+      "nouns": [
+        "frame",
+        "gate"
+      ],
+      "silhouette": "open rectangle / plain",
+      "geometry": "three enclosing bars with a floating centre; unmodified silhouette",
+      "negative_space": "open right edge",
+      "story": "Work is bounded and inspectable",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "low",
+      "score": 4.13,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C07",
+      "nouns": [
+        "frame",
+        "gate"
+      ],
+      "silhouette": "open rectangle / offset",
+      "geometry": "three enclosing bars with a floating centre; upper element shifted one unit",
+      "negative_space": "open right edge",
+      "story": "Work is bounded and inspectable",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 4.07,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C08",
+      "nouns": [
+        "frame",
+        "gate"
+      ],
+      "silhouette": "open rectangle / cut",
+      "geometry": "three enclosing bars with a floating centre; one broad square cut from the outer edge",
+      "negative_space": "open right edge",
+      "story": "Work is bounded and inspectable",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 4.01,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C09",
+      "nouns": [
+        "frame",
+        "gate"
+      ],
+      "silhouette": "open rectangle / paired",
+      "geometry": "three enclosing bars with a floating centre; two elements mirrored around a wide channel",
+      "negative_space": "open right edge",
+      "story": "Work is bounded and inspectable",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.95,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C10",
+      "nouns": [
+        "frame",
+        "gate"
+      ],
+      "silhouette": "open rectangle / terminal",
+      "geometry": "three enclosing bars with a floating centre; one terminal extended to suggest a next step",
+      "negative_space": "open right edge",
+      "story": "Work is bounded and inspectable",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.89,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C11",
+      "nouns": [
+        "tile",
+        "ledger"
+      ],
+      "silhouette": "split grid / plain",
+      "geometry": "three unequal rectangular modules; unmodified silhouette",
+      "negative_space": "regular vertical channel",
+      "story": "Evidence and implementation share one system",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "low",
+      "score": 4.06,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C12",
+      "nouns": [
+        "tile",
+        "ledger"
+      ],
+      "silhouette": "split grid / offset",
+      "geometry": "three unequal rectangular modules; upper element shifted one unit",
+      "negative_space": "regular vertical channel",
+      "story": "Evidence and implementation share one system",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 4.0,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C13",
+      "nouns": [
+        "tile",
+        "ledger"
+      ],
+      "silhouette": "split grid / cut",
+      "geometry": "three unequal rectangular modules; one broad square cut from the outer edge",
+      "negative_space": "regular vertical channel",
+      "story": "Evidence and implementation share one system",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.94,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C14",
+      "nouns": [
+        "tile",
+        "ledger"
+      ],
+      "silhouette": "split grid / paired",
+      "geometry": "three unequal rectangular modules; two elements mirrored around a wide channel",
+      "negative_space": "regular vertical channel",
+      "story": "Evidence and implementation share one system",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.88,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C15",
+      "nouns": [
+        "tile",
+        "ledger"
+      ],
+      "silhouette": "split grid / terminal",
+      "geometry": "three unequal rectangular modules; one terminal extended to suggest a next step",
+      "negative_space": "regular vertical channel",
+      "story": "Evidence and implementation share one system",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.82,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C16",
+      "nouns": [
+        "bridge",
+        "rail"
+      ],
+      "silhouette": "paired piers / plain",
+      "geometry": "two posts joined by a flat lintel; unmodified silhouette",
+      "negative_space": "broad central arch",
+      "story": "A stable route from prototype to production",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "low",
+      "score": 3.99,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C17",
+      "nouns": [
+        "bridge",
+        "rail"
+      ],
+      "silhouette": "paired piers / offset",
+      "geometry": "two posts joined by a flat lintel; upper element shifted one unit",
+      "negative_space": "broad central arch",
+      "story": "A stable route from prototype to production",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.93,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C18",
+      "nouns": [
+        "bridge",
+        "rail"
+      ],
+      "silhouette": "paired piers / cut",
+      "geometry": "two posts joined by a flat lintel; one broad square cut from the outer edge",
+      "negative_space": "broad central arch",
+      "story": "A stable route from prototype to production",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.87,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C19",
+      "nouns": [
+        "bridge",
+        "rail"
+      ],
+      "silhouette": "paired piers / paired",
+      "geometry": "two posts joined by a flat lintel; two elements mirrored around a wide channel",
+      "negative_space": "broad central arch",
+      "story": "A stable route from prototype to production",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.81,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C20",
+      "nouns": [
+        "bridge",
+        "rail"
+      ],
+      "silhouette": "paired piers / terminal",
+      "geometry": "two posts joined by a flat lintel; one terminal extended to suggest a next step",
+      "negative_space": "broad central arch",
+      "story": "A stable route from prototype to production",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.75,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C21",
+      "nouns": [
+        "step",
+        "path"
+      ],
+      "silhouette": "ascending stair / plain",
+      "geometry": "three rising square units; unmodified silhouette",
+      "negative_space": "stepped outer edge",
+      "story": "Visible progress towards release",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "low",
+      "score": 3.92,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C22",
+      "nouns": [
+        "step",
+        "path"
+      ],
+      "silhouette": "ascending stair / offset",
+      "geometry": "three rising square units; upper element shifted one unit",
+      "negative_space": "stepped outer edge",
+      "story": "Visible progress towards release",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.86,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C23",
+      "nouns": [
+        "step",
+        "path"
+      ],
+      "silhouette": "ascending stair / cut",
+      "geometry": "three rising square units; one broad square cut from the outer edge",
+      "negative_space": "stepped outer edge",
+      "story": "Visible progress towards release",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.8,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C24",
+      "nouns": [
+        "step",
+        "path"
+      ],
+      "silhouette": "ascending stair / paired",
+      "geometry": "three rising square units; two elements mirrored around a wide channel",
+      "negative_space": "stepped outer edge",
+      "story": "Visible progress towards release",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.74,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C25",
+      "nouns": [
+        "step",
+        "path"
+      ],
+      "silhouette": "ascending stair / terminal",
+      "geometry": "three rising square units; one terminal extended to suggest a next step",
+      "negative_space": "stepped outer edge",
+      "story": "Visible progress towards release",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.68,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C26",
+      "nouns": [
+        "bracket",
+        "ruler"
+      ],
+      "silhouette": "paired corners / plain",
+      "geometry": "opposed L forms; unmodified silhouette",
+      "negative_space": "wide central field",
+      "story": "Agreed boundaries define delivery",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "low",
+      "score": 3.85,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C27",
+      "nouns": [
+        "bracket",
+        "ruler"
+      ],
+      "silhouette": "paired corners / offset",
+      "geometry": "opposed L forms; upper element shifted one unit",
+      "negative_space": "wide central field",
+      "story": "Agreed boundaries define delivery",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.79,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C28",
+      "nouns": [
+        "bracket",
+        "ruler"
+      ],
+      "silhouette": "paired corners / cut",
+      "geometry": "opposed L forms; one broad square cut from the outer edge",
+      "negative_space": "wide central field",
+      "story": "Agreed boundaries define delivery",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.73,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C29",
+      "nouns": [
+        "bracket",
+        "ruler"
+      ],
+      "silhouette": "paired corners / paired",
+      "geometry": "opposed L forms; two elements mirrored around a wide channel",
+      "negative_space": "wide central field",
+      "story": "Agreed boundaries define delivery",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.67,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C30",
+      "nouns": [
+        "bracket",
+        "ruler"
+      ],
+      "silhouette": "paired corners / terminal",
+      "geometry": "opposed L forms; one terminal extended to suggest a next step",
+      "negative_space": "wide central field",
+      "story": "Agreed boundaries define delivery",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.61,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C31",
+      "nouns": [
+        "hinge",
+        "beam"
+      ],
+      "silhouette": "pivot joint / plain",
+      "geometry": "vertical spine and offset arm; unmodified silhouette",
+      "negative_space": "open elbow",
+      "story": "Controlled change without loss of support",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "low",
+      "score": 3.78,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C32",
+      "nouns": [
+        "hinge",
+        "beam"
+      ],
+      "silhouette": "pivot joint / offset",
+      "geometry": "vertical spine and offset arm; upper element shifted one unit",
+      "negative_space": "open elbow",
+      "story": "Controlled change without loss of support",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.72,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C33",
+      "nouns": [
+        "hinge",
+        "beam"
+      ],
+      "silhouette": "pivot joint / cut",
+      "geometry": "vertical spine and offset arm; one broad square cut from the outer edge",
+      "negative_space": "open elbow",
+      "story": "Controlled change without loss of support",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.66,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C34",
+      "nouns": [
+        "hinge",
+        "beam"
+      ],
+      "silhouette": "pivot joint / paired",
+      "geometry": "vertical spine and offset arm; two elements mirrored around a wide channel",
+      "negative_space": "open elbow",
+      "story": "Controlled change without loss of support",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.6,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C35",
+      "nouns": [
+        "hinge",
+        "beam"
+      ],
+      "silhouette": "pivot joint / terminal",
+      "geometry": "vertical spine and offset arm; one terminal extended to suggest a next step",
+      "negative_space": "open elbow",
+      "story": "Controlled change without loss of support",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.54,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C36",
+      "nouns": [
+        "keystone",
+        "gate"
+      ],
+      "silhouette": "tapered portal / plain",
+      "geometry": "central wedge between uprights; unmodified silhouette",
+      "negative_space": "split arch",
+      "story": "A named owner connects the work",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "low",
+      "score": 3.71,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C37",
+      "nouns": [
+        "keystone",
+        "gate"
+      ],
+      "silhouette": "tapered portal / offset",
+      "geometry": "central wedge between uprights; upper element shifted one unit",
+      "negative_space": "split arch",
+      "story": "A named owner connects the work",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.65,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C38",
+      "nouns": [
+        "keystone",
+        "gate"
+      ],
+      "silhouette": "tapered portal / cut",
+      "geometry": "central wedge between uprights; one broad square cut from the outer edge",
+      "negative_space": "split arch",
+      "story": "A named owner connects the work",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.59,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C39",
+      "nouns": [
+        "keystone",
+        "gate"
+      ],
+      "silhouette": "tapered portal / paired",
+      "geometry": "central wedge between uprights; two elements mirrored around a wide channel",
+      "negative_space": "split arch",
+      "story": "A named owner connects the work",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.53,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C40",
+      "nouns": [
+        "keystone",
+        "gate"
+      ],
+      "silhouette": "tapered portal / terminal",
+      "geometry": "central wedge between uprights; one terminal extended to suggest a next step",
+      "negative_space": "split arch",
+      "story": "A named owner connects the work",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.47,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C41",
+      "nouns": [
+        "thread",
+        "rail"
+      ],
+      "silhouette": "folded band / plain",
+      "geometry": "one broad rectilinear ribbon; unmodified silhouette",
+      "negative_space": "open central slot",
+      "story": "Continuity from release to support",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "low",
+      "score": 3.64,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C42",
+      "nouns": [
+        "thread",
+        "rail"
+      ],
+      "silhouette": "folded band / offset",
+      "geometry": "one broad rectilinear ribbon; upper element shifted one unit",
+      "negative_space": "open central slot",
+      "story": "Continuity from release to support",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.58,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C43",
+      "nouns": [
+        "thread",
+        "rail"
+      ],
+      "silhouette": "folded band / cut",
+      "geometry": "one broad rectilinear ribbon; one broad square cut from the outer edge",
+      "negative_space": "open central slot",
+      "story": "Continuity from release to support",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.52,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C44",
+      "nouns": [
+        "thread",
+        "rail"
+      ],
+      "silhouette": "folded band / paired",
+      "geometry": "one broad rectilinear ribbon; two elements mirrored around a wide channel",
+      "negative_space": "open central slot",
+      "story": "Continuity from release to support",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.46,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C45",
+      "nouns": [
+        "thread",
+        "rail"
+      ],
+      "silhouette": "folded band / terminal",
+      "geometry": "one broad rectilinear ribbon; one terminal extended to suggest a next step",
+      "negative_space": "open central slot",
+      "story": "Continuity from release to support",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.4,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C46",
+      "nouns": [
+        "anchor",
+        "ledger"
+      ],
+      "silhouette": "grounded stack / plain",
+      "geometry": "horizontal base under two blocks; unmodified silhouette",
+      "negative_space": "separated upper blocks",
+      "story": "Operational ownership supports the product",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "low",
+      "score": 3.57,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C47",
+      "nouns": [
+        "anchor",
+        "ledger"
+      ],
+      "silhouette": "grounded stack / offset",
+      "geometry": "horizontal base under two blocks; upper element shifted one unit",
+      "negative_space": "separated upper blocks",
+      "story": "Operational ownership supports the product",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.51,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C48",
+      "nouns": [
+        "anchor",
+        "ledger"
+      ],
+      "silhouette": "grounded stack / cut",
+      "geometry": "horizontal base under two blocks; one broad square cut from the outer edge",
+      "negative_space": "separated upper blocks",
+      "story": "Operational ownership supports the product",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.45,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C49",
+      "nouns": [
+        "anchor",
+        "ledger"
+      ],
+      "silhouette": "grounded stack / paired",
+      "geometry": "horizontal base under two blocks; two elements mirrored around a wide channel",
+      "negative_space": "separated upper blocks",
+      "story": "Operational ownership supports the product",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.39,
+      "score_status": "provisional internal concept judgment"
+    },
+    {
+      "id": "C50",
+      "nouns": [
+        "anchor",
+        "ledger"
+      ],
+      "silhouette": "grounded stack / terminal",
+      "geometry": "horizontal base under two blocks; one terminal extended to suggest a next step",
+      "negative_space": "separated upper blocks",
+      "story": "Operational ownership supports the product",
+      "app_icon": "Compact square silhouette; optical testing required",
+      "originality_risk": "Geometric construction vocabulary is crowded; no competitor clearance performed",
+      "small_size_risk": "medium",
+      "score": 3.33,
+      "score_status": "provisional internal concept judgment"
+    }
+  ],
+  "directions": [
+    {
+      "id": "A",
+      "logo_assets": [
+        "logos/direction-a.svg"
+      ]
+    },
+    {
+      "id": "B",
+      "logo_assets": [
+        "logos/direction-b.svg"
+      ]
+    },
+    {
+      "id": "C",
+      "logo_assets": [
+        "logos/direction-c.svg"
+      ]
+    }
+  ],
+  "qc": {
+    "decision": "iterate",
+    "reference": "qc.md"
+  },
+  "delivery": {
+    "files": [
+      "brand-board.svg",
+      "brand-guide.md",
+      "concept-catalog.json",
+      "exploration.md",
+      "logos/direction-a.svg",
+      "logos/direction-b.svg",
+      "logos/direction-c.svg",
+      "logos/favicon.svg",
+      "logos/lockup-black.svg",
+      "logos/lockup-cobalt.svg",
+      "logos/lockup-ink.svg",
+      "logos/lockup-white.svg",
+      "logos/mark-black.svg",
+      "logos/mark-cobalt.svg",
+      "logos/mark-ink.svg",
+      "logos/mark-white.svg",
+      "preview.html",
+      "qc.md",
+      "tokens.json"
+    ],
+    "open_decisions": [
+      "Typography refinement",
+      "Production and resemblance checks"
+    ]
+  },
+  "selected_direction": "C",
+  "user_approved_direction": "C"
+}
